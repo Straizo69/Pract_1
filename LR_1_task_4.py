@@ -1,4 +1,4 @@
-# LR_1_task_4_fixed.py
+#  LR_1_task_4.py
 
 import numpy as np
 import matplotlib.pyplot as plt
